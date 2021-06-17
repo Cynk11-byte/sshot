@@ -1,2 +1,3 @@
 # sshot
-discord screen shot bot
+screenshot tool
+
